@@ -1,2 +1,29 @@
-# Delivery_Food
-Это проект по созданию веб-приложения для сервиса доставки еды, разработанный с использованием HTML, CSS, JavaScript и Vue.js. Приложение позволяет пользователям заказывать еду из различных ресторанов, просматривать меню, добавлять блюда в корзину и оформлять заказ.
+# Delivery_Food_vue
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
